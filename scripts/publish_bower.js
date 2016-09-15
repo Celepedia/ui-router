@@ -19,6 +19,6 @@ _exec('git init');
 _exec('git add .');
 _exec('git commit -m  .');
 _exec(`git tag ${version}`);
-_exec('git remote add bower https://github.com/angular-ui/angular-ui-router-bower.git');
+_exec('git remote add bower https://github.com/Celepedia/angular-ui-router-bower.git');
 _exec(`git push bower ${version}`);
 
