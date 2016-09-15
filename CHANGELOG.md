@@ -1,3 +1,11 @@
+<a name="1.0.0-beta.2.fix"></a>
+# Fix
+
+<a name="1.0.0-beta.2"></a>
+# [1.0.0-beta.2](https://github.com/angular-ui/ui-router/compare/1.0.0-beta.2.fix...v1.0.0-beta.2) (2016-09-15)
+
+
+
 <a name="1.0.0-beta.2"></a>
 # [1.0.0-beta.2](https://github.com/angular-ui/ui-router/compare/1.0.0-alpha.5...v1.0.0-beta.2) (2016-09-09)
 
